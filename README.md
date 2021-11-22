@@ -1,7 +1,9 @@
 # SageMaker Deployment Project
+Project Requirements https://github.com/udacity/sagemaker-deployment/tree/master/README.md
 
-Screenshots Added for movie review Sentiment Analysis
+Project Screenshots:
 
+Applying Sentiment Analysis to predict movie reviews
 ![Negative](https://user-images.githubusercontent.com/63676265/142925298-a122a050-bbe1-44d0-a147-dec2f787abdb.png)
 ![Negative2](https://user-images.githubusercontent.com/63676265/142925301-8a46d054-98b8-4fe2-ad4c-7009f4b0179d.png)
 ![Positive](https://user-images.githubusercontent.com/63676265/142925302-189046d1-3b15-491a-8522-81bbc6703d91.png)
